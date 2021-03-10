@@ -1,3 +1,2 @@
-<?php
-print "i love my baby";
-?>
+i love my baby
+
